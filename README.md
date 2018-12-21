@@ -8,9 +8,20 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 
 Upcoming Lectures:
 
-### 1 Welcome, Install and Overview
+### 1 Welcome
+
+Michael welcomes you to the course
+
+### 1a Install and Overview
+
 **In this video (objectives)…**
 
 1. Introduce Blender 2.8
 2. How to Install Blender 2.8 Beta
 3. Check everything is Working
+
+
+**After watching (learning outcomes)…**
+
+You will have Blender 2.8 installed
+
