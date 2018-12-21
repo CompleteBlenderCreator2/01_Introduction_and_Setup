@@ -25,3 +25,14 @@ Michael welcomes you to the course
 
 You will have Blender 2.8 installed
 
+### 2 WARNING
+**In this video (objectives)…**
+
+1. Back up previous work
+2. Save Often
+
+
+**After watching (learning outcomes)…**
+
+You will understand that opening and saving in Blender 2.8 comes with risks
+
