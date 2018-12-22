@@ -36,3 +36,15 @@ You will have Blender 2.8 installed
 
 You will understand that opening and saving in Blender 2.8 comes with risks
 
+### 3 Adding Objects
+**In this video (objectives)…**
+
+1. Learn about the 3D cursor
+2. How to add a new primative
+3. How To delete objects
+
+
+**After watching (learning outcomes)…**
+
+You will be able to add various objects, understand the outliner and delete objects from your scene.
+
