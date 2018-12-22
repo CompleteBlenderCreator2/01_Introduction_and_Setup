@@ -48,3 +48,15 @@ You will understand that opening and saving in Blender 2.8 comes with risks
 
 You will be able to add various objects, understand the outliner and delete objects from your scene.
 
+### 4 Object Transforms
+**In this video (objectives)…**
+
+1. Learn about Scaling Rotating and Tranlating
+2. See the various ways of accessing those tools
+3. Apply Rotation and Scaling Transforms
+
+
+**After watching (learning outcomes)…**
+
+You will be able to transform any object in Blender
+
