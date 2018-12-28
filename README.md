@@ -60,3 +60,147 @@ You will be able to add various objects, understand the outliner and delete obje
 
 You will be able to transform any object in Blender
 
+### 5 Duplication
+**In this video (objectives)…**
+
+1. Learn how to duplicate Objects
+2. Experience how useful the skill can be to rapidly make something
+3. Great for prototyping
+
+
+**After watching (learning outcomes)…**
+
+Be able to Rapidly prototype shaves and ideas.
+
+### 6 The 3D Cursor
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
+
+### 7 Snapping
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
+
+### 8 Moving Around Your Models
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
+
+### 9 Rendering Out Your Scene
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
+
+### 10 Sharing Your Work And Our Community
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
+
+### 11 Instructor Hang Out
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
+
+### 12 Intro and Setup Final Challenge
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
+
+### 13 Blender's Interface
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
+
+### 14 User Preferences
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
+
+### 15 Intro and Setup Section Wrap Up
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
+
+
+### Readme Template
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
