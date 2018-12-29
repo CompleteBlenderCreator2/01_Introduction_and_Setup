@@ -10,38 +10,38 @@ Upcoming Lectures:
 
 ### 1 Welcome
 
-Michael welcomes you to the course
+Michael welcomes you to the course.
 
 ### 1a Install and Overview
 
 **In this video (objectives)…**
 
-1. Introduce Blender 2.8
-2. How to Install Blender 2.8 Beta
-3. Check everything is Working
+1. Introduce Blender 2.8.
+2. How to Install Blender 2.8 Beta.
+3. Check everything is Working.
 
 
 **After watching (learning outcomes)…**
 
-You will have Blender 2.8 installed
+You will have Blender 2.8 installed.
 
 ### 2 WARNING
 **In this video (objectives)…**
 
-1. Back up previous work
-2. Save Often
+1. Back up previous work.
+2. Save often.
 
 
 **After watching (learning outcomes)…**
 
-You will understand that opening and saving in Blender 2.8 comes with risks
+You will understand that opening and saving in Blender 2.8 comes with risks.
 
 ### 3 Adding Objects
 **In this video (objectives)…**
 
-1. Learn about the 3D cursor
-2. How to add a new primative
-3. How To delete objects
+1. Learn about the 3D cursor.
+2. How to add a new primative.
+3. How To delete objects.
 
 
 **After watching (learning outcomes)…**
@@ -51,50 +51,39 @@ You will be able to add various objects, understand the outliner and delete obje
 ### 4 Object Transforms
 **In this video (objectives)…**
 
-1. Learn about Scaling Rotating and Tranlating
-2. See the various ways of accessing those tools
-3. Apply Rotation and Scaling Transforms
+1. Learn about Scaling Rotating and Tranlating.
+2. See the various ways of accessing those tools.
+3. Apply Rotation and Scaling Transforms.
 
 
 **After watching (learning outcomes)…**
 
-You will be able to transform any object in Blender
+You will be able to transform any object in Blender.
 
 ### 5 Duplication
 **In this video (objectives)…**
 
-1. Learn how to duplicate Objects
-2. Experience how useful the skill can be to rapidly make something
-3. Great for prototyping
+1. Learn how to duplicate objects.
+2. Experience how useful the skill can be to rapidly make something.
+3. Great for prototyping.
 
 
 **After watching (learning outcomes)…**
 
 Be able to Rapidly prototype shaves and ideas.
 
-### 6 The 3D Cursor
+
+### 6 Snapping
 **In this video (objectives)…**
 
-1. What we did
-2.
-3.
+1. Enable Snapping.
+2. Swtich between different snapping modes.
+3. Understand some of the pitfalls.
 
 
 **After watching (learning outcomes)…**
 
-< What the student will be able to do, space above important >
-
-### 7 Snapping
-**In this video (objectives)…**
-
-1. What we did
-2.
-3.
-
-
-**After watching (learning outcomes)…**
-
-< What the student will be able to do, space above important >
+Be able to position and align your objects with precision.
 
 ### 8 Moving Around Your Models
 **In this video (objectives)…**
