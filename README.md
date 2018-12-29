@@ -85,17 +85,17 @@ Be able to Rapidly prototype shaves and ideas.
 
 Be able to position and align your objects with precision.
 
-### 8 Moving Around Your Models
+### 7 Camera Setup Moving Around Your Models
 **In this video (objectives)…**
 
-1. What we did
-2.
-3.
+1. Look at the scene through the camera.
+2. Position the Camera ready form.
+3. learn how to quickly move the camera and around the world.
 
 
 **After watching (learning outcomes)…**
 
-< What the student will be able to do, space above important >
+Be able to setup your camera ready for your first render
 
 ### 9 Rendering Out Your Scene
 **In this video (objectives)…**
