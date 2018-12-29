@@ -95,19 +95,19 @@ Be able to position and align your objects with precision.
 
 **After watching (learning outcomes)…**
 
-Be able to setup your camera ready for your first render
+Be able to setup your camera ready for your first render.
 
-### 9 Rendering Out Your Scene
+### 8 Rendering Out Your Scene
 **In this video (objectives)…**
 
-1. What we did
-2.
-3.
+1. Setup Resolution Settings.
+2. Render Out your first render!
+3. Switch between cycles and Eevee Rendering.
 
 
 **After watching (learning outcomes)…**
 
-< What the student will be able to do, space above important >
+Have something extrnal to Blender that you can share with others.
 
 ### 10 Sharing Your Work And Our Community
 **In this video (objectives)…**
