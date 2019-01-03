@@ -83,7 +83,7 @@ Be able to Rapidly prototype shaves and ideas.
 
 **After watching (learning outcomes)…**
 
-You will be able to add a little bit of colour to your model
+You will be able to add materials to your mesh objects, adding colour to your model
 
 
 ### 6 QT: Intro To Snapping
