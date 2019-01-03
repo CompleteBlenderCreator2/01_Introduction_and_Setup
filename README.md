@@ -72,8 +72,21 @@ You will be able to transform any object in Blender.
 
 Be able to Rapidly prototype shaves and ideas.
 
+### 5a Your First Materials
 
-### 6 Snapping
+**In this video (objectives)…**
+
+1. Add a material to your object
+2. Look over the properties a material can have
+3. Understand this is the default principal shader
+
+
+**After watching (learning outcomes)…**
+
+You will be able to add a little bit of colour to your model
+
+
+### 6 QT: Intro To Snapping
 **In this video (objectives)…**
 
 1. Enable Snapping.
@@ -97,7 +110,11 @@ Be able to position and align your objects with precision.
 
 Be able to setup your camera ready for your first render.
 
-### 8 Rendering Out Your Scene
+### 8 A Basic 3 Point Light Setup
+
+
+
+### 9 Rendering Out Your Scene
 **In this video (objectives)…**
 
 1. Setup Resolution Settings.
