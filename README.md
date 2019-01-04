@@ -86,7 +86,7 @@ Be able to Rapidly prototype shaves and ideas.
 You will be able to add materials to your mesh objects, adding colour to your model
 
 
-### 6 QT: Intro To Snapping
+### 6 QT - Intro To Snapping
 **In this video (objectives)…**
 
 1. Enable Snapping.
@@ -129,14 +129,14 @@ Have something extrnal to Blender that you can share with others.
 ### 10 Sharing Your Work And Our Community
 **In this video (objectives)…**
 
-1. What we did
-2.
-3.
+1. Q&As are for questions
+2. Please Share work on the FB group or Community Site
+3. Join Our Discord!
 
 
 **After watching (learning outcomes)…**
 
-< What the student will be able to do, space above important >
+You will understand where to ask questions and where to share your work!
 
 ### 11 Instructor Hang Out
 **In this video (objectives)…**
