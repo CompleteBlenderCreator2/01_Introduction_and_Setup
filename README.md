@@ -112,6 +112,16 @@ Be able to setup your camera ready for your first render.
 
 ### 8 A Basic 3 Point Light Setup
 
+**In this video (objectives)…**
+
+1. Setup a 3 point lighting rig.
+2. Edit a lamps basic properties.
+3. Parent the lights to the camera.
+
+
+**After watching (learning outcomes)…**
+
+You will be able to light a scene in Blender.
 
 
 ### 9 Rendering Out Your Scene
@@ -138,19 +148,8 @@ Have something extrnal to Blender that you can share with others.
 
 You will understand where to ask questions and where to share your work!
 
-### 11 Instructor Hang Out
-**In this video (objectives)…**
 
-1. What we did
-2.
-3.
-
-
-**After watching (learning outcomes)…**
-
-< What the student will be able to do, space above important >
-
-### 12 Intro and Setup Final Challenge
+### 11 Intro and Setup Final Challenge
 **In this video (objectives)…**
 
 1. Learn a few tips a tricks.
@@ -162,7 +161,7 @@ You will understand where to ask questions and where to share your work!
 
 You'll be sure that you know all of the modelling knowledge in this section.
 
-### 13 Blender's Interface
+### 12 Blender's Interface
 **In this video (objectives)…**
 
 1. Undeterstand how the interface is organised.
@@ -172,41 +171,5 @@ You'll be sure that you know all of the modelling knowledge in this section.
 
 **After watching (learning outcomes)…**
 
-Be Confortable with Blender's Interface
+Be Confortable with Blender's Interface.
 
-### 14 User Preferences
-**In this video (objectives)…**
-
-1. Take a Look at Blender's preferences.
-2. Understand some key settings.
-3. Know what .blend1 files are.
-
-
-**After watching (learning outcomes)…**
-
-You will understand where the preferences are and see just how customisable Blender is.
-
-### 15 Intro and Setup Section Wrap Up
-**In this video (objectives)…**
-
-1. What we did
-2.
-3.
-
-
-**After watching (learning outcomes)…**
-
-< What the student will be able to do, space above important >
-
-
-### Readme Template
-**In this video (objectives)…**
-
-1. What we did
-2.
-3.
-
-
-**After watching (learning outcomes)…**
-
-< What the student will be able to do, space above important >
