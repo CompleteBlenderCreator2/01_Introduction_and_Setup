@@ -173,3 +173,15 @@ You'll be sure that you know all of the modelling knowledge in this section.
 
 Be Confortable with Blender's Interface.
 
+### 13 User Preferences
+**In this video (objectives)…**
+
+1. Take a Look at Blender's preferences.
+2. Understand some key settings.
+3. Know what .blend1 files are.
+
+
+**After watching (learning outcomes)…**
+
+You will understand where the preferences are and see just how customisable Blender is.
+
