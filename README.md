@@ -185,3 +185,12 @@ Be Confortable with Blender's Interface.
 
 You will understand where the preferences are and see just how customisable Blender is.
 
+### 14 Intro and Setup Section Wrap Up
+**In this video (objectives)…**
+
+Mike summarises the sections learning points and their usefulness.
+
+
+**After watching (learning outcomes)…**
+
+You will have a recap of the section
