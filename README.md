@@ -76,14 +76,14 @@ Be able to Rapidly prototype shaves and ideas.
 
 **In this video (objectives)…**
 
-1. Add a material to your object
-2. Look over the properties a material can have
-3. Understand this is the default principal shader
+1. Add a material to your object.
+2. Look over the properties a material can have.
+3. Understand this is the default principal shader.
 
 
 **After watching (learning outcomes)…**
 
-You will be able to add materials to your mesh objects, adding colour to your model
+You will be able to add materials to your mesh objects, adding colour to your model.
 
 
 ### 6 QT - Intro To Snapping
@@ -129,8 +129,8 @@ Have something extrnal to Blender that you can share with others.
 ### 10 Sharing Your Work And Our Community
 **In this video (objectives)…**
 
-1. Q&As are for questions
-2. Please Share work on the FB group or Community Site
+1. Q&As are for questions.
+2. Please Share work on the FB group or Community Site.
 3. Join Our Discord!
 
 
@@ -153,38 +153,38 @@ You will understand where to ask questions and where to share your work!
 ### 12 Intro and Setup Final Challenge
 **In this video (objectives)…**
 
-1. What we did
-2.
-3.
+1. Learn a few tips a tricks.
+2. Focus on what the viewer will see.
+3. Make your end of section simple model.
 
 
 **After watching (learning outcomes)…**
 
-< What the student will be able to do, space above important >
+You'll be sure that you know all of the modelling knowledge in this section.
 
 ### 13 Blender's Interface
 **In this video (objectives)…**
 
-1. What we did
-2.
-3.
+1. Undeterstand how the interface is organised.
+2. Be able to select and add existing layouts.
+3. Know how to split and combine windows.
 
 
 **After watching (learning outcomes)…**
 
-< What the student will be able to do, space above important >
+Be Confortable with Blender's Interface
 
 ### 14 User Preferences
 **In this video (objectives)…**
 
-1. What we did
-2.
-3.
+1. Take a Look at Blender's preferences.
+2. Understand some key settings.
+3. Know what .blend1 files are.
 
 
 **After watching (learning outcomes)…**
 
-< What the student will be able to do, space above important >
+You will understand where the preferences are and see just how customisable Blender is.
 
 ### 15 Intro and Setup Section Wrap Up
 **In this video (objectives)…**
